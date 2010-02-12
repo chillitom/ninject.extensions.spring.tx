@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.Extensions.Spring.Tx", "..\source\Ninject.Extensions.Spring.Tx\Ninject.Extensions.Spring.Tx.csproj", "{6FA042BB-43E0-46AD-981B-E48162350149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ninject.Extensions.Spring.Tx.Tests", "..\source\Ninject.Extensions.Spring.Tx.Tests\Ninject.Extensions.Spring.Tx.Tests.csproj", "{A4E7D074-77BF-4E1A-B68A-6A13AA809A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FA042BB-43E0-46AD-981B-E48162350149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA042BB-43E0-46AD-981B-E48162350149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA042BB-43E0-46AD-981B-E48162350149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA042BB-43E0-46AD-981B-E48162350149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E7D074-77BF-4E1A-B68A-6A13AA809A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E7D074-77BF-4E1A-B68A-6A13AA809A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E7D074-77BF-4E1A-B68A-6A13AA809A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E7D074-77BF-4E1A-B68A-6A13AA809A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
